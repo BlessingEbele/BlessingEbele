@@ -4,6 +4,7 @@ As a Backend Developer and Chinese–English Translator, I’m passionate about 
 I combine Python, Django, and API development expertise with a deep understanding of language, culture, and human-centered design to create tools that don’t just function, but serve people.
 
 Over time, I’ve developed strong skills in:
+
 🔹 Backend development: Python, Django, RESTful APIs, MySQL, and database architecture.
 🔹 Software engineering principles: clean code, testing, version control (Git), and security best practices.
 🔹 Cross-cultural communication: professional Chinese–English translation and localization for tech, education, and healthcare projects.
